@@ -1,0 +1,4 @@
+{'product': 'bru', 'cost': 56, 'manf_date': '24-07-2021', 'availableStock': True, 'discount': 18}
+Total Price = 224{'product': 'thumsup', 'cost': 30, 'manf_date': '27-09-2021', 'availableStock': False, 'discount': 18}
+Total Price = 90
+Products saled upto now = 7
